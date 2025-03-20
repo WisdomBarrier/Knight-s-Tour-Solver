@@ -1,4 +1,4 @@
-# Knight-s-Tour-Solver
+# Knitght's tour solver
 
 *Overview*
 
@@ -22,6 +22,7 @@ Tree-based search for all possible knight paths.
 Dynamic memory management using linked lists and trees.
 
 Binary file handling for saving and loading knight paths.
+
                                      
 *Files*
 
