@@ -23,7 +23,6 @@ Dynamic memory management using linked lists and trees.
 
 Binary file handling for saving and loading knight paths.
                                      
-                                     Code Structure
 *Files*
 
 main.c – Handles user interaction and menu logic.
